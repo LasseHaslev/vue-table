@@ -5,7 +5,7 @@ export default {
     <table class="table">
         <thead>
             <tr>
-                <th v-for="head in heads">{{ head }}</th>
+                <th v-for="head in heads" :style="head.style" :class="head.class">{{ head.name }}</th>
             </tr>
         </thead>
         <tbody>

@@ -4,7 +4,7 @@ export default {
     <section class="section">
         <div class="container">
 
-            <vue-table :heads="[ 'Name', 'Action' ]">
+            <vue-table :heads="[ 'Name', { name: 'Actions', style: { 'text-align':'right' } } ]">
             <tr v-for="( item, index ) in items">
                 <td>{{ item }}</td>
                 <td>
