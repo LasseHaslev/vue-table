@@ -3,10 +3,10 @@
 > Simple table and logic in Vue2
 
 # Installation
-Run ```npm install @lassehaslev/vue-confirm --save``` in your project folder
+Run ```npm install @lassehaslev/vue-table --save``` in your project folder
 
 ## Usage
-Use this simple confirm with [Bulma](https://trello.com/b/BDC3zQvN).
+Use this simple component with [Bulma](https://trello.com/b/BDC3zQvN).
 ```js
 import { Table } from '@lassehaslev/vue-table';
 export default {

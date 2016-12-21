@@ -3,7 +3,7 @@
         <section class="section">
             <div class="container">
                 <h3 class="title is-1">
-                    <a href="https://github.com/LasseHaslev/vue-confirm">
+                    <a href="https://github.com/LasseHaslev/vue-table">
                         @lassehaslev/vue-table
                     </a>
                 </h3>
