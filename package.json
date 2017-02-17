@@ -1,7 +1,7 @@
 {
   "name": "@lassehaslev/vue-table",
   "description": "Simple table logic in Vue2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Lasse S. Haslev <lasse@haslev.no>",
   "main": "dist/index.js",
   "private": false,
